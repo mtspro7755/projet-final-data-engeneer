@@ -28,9 +28,6 @@ mon-projet-final-data-engeneer/
 │   └── AdventureWorksETL.scala
 │   └── BI_AdventureWorks.pbix
 │   └── Documentation  Instructions pour déployer l'ETL et utiliser les tableaux de bord..txt 
-├── lib/
-│   ├── mssql-jdbc-12.8.1.jre11.jar
-│   └── postgresql-42.7.3.jar
 ├── etl/
 │   ├── lib/
 │   ├── mssql-jdbc-12.8.1.jre11.jar
@@ -40,8 +37,8 @@ mon-projet-final-data-engeneer/
 │      └── main/
 │       └── scala
 │         └── AdventureWorksETL.scala
-    └── target/scala-2.12/
-        └── adventureworksetl_2.12-1.0.jar
+│   ├── target/scala-2.12/
+│       └── adventureworksetl_2.12-1.0.jar
 ```
 
 ### 💡 Exemple `docker-compose.yml`
