@@ -1,0 +1,540 @@
+City,TotalRevenue
+Toronto,4460477.6850
+London,2738540.2156
+Paris,1991775.2089
+Seattle,1569985.4138
+Burnaby,1333731.2253
+Richmond,1258919.9996
+Montreal,1129784.4744
+Garland,1123139.9222
+Memphis,1104968.3910
+Nashua,1103370.4656
+Orleans,1081073.0358
+Vancouver,960117.9020
+Bellingham,955815.9731
+Houston,909362.9143
+Edmonton,894794.7474
+Tooele,877107.1923
+San Antonio,876525.5615
+Loveland,816353.2523
+Lacey,740985.8338
+Odessa,711864.7624
+Casper,702018.2457
+Carson,693622.4652
+Miami,688087.4744
+Phoenix,685695.2091
+Orlando,684418.8247
+Irving,655828.2451
+Saint Louis,648952.9773
+Modesto,648663.3185
+Union City,636226.4703
+College Station,618938.1579
+Ontario,600169.0180
+Austin,586524.9474
+La Mesa,585516.4330
+Columbus,580181.2067
+Reno,577089.5722
+Greeley,572035.1121
+El Segundo,545803.7455
+Melville,537528.0959
+Brossard,537519.5216
+Sand City,534956.2787
+Milford,525985.0067
+Calgary,523699.4739
+Branch,519502.6364
+Berlin,516060.2690
+Santa Monica,515232.5338
+Etobicoke,512389.8159
+Saint Ouen,505661.0158
+Culver City,498139.7161
+Kittery,479865.5299
+Ellensburg,477957.2715
+Courbevoie,475731.2858
+Lavender Bay,473514.0587
+Indianapolis,465222.6205
+Sillery,458373.1887
+Newark,456739.4746
+Rhodes,452881.0497
+Gulfport,446013.5350
+Colomiers,445682.3129
+Bellevue,445365.2107
+Las Cruces,429050.8730
+Milton Keynes,428816.3973
+Gilroy,427890.8367
+Melbourne,426781.2345
+Austell,422706.6026
+Mesquite,418436.5299
+Chantilly,416742.7091
+Park City,415310.5505
+Minneapolis,408483.4465
+Plaistow,402108.4720
+Burbank,401427.4603
+Winston-Salem,395413.1309
+Racine,392784.6026
+Pnot-Rouge,392495.8789
+Westminster,392391.7286
+Woolston,388510.3584
+Longview,387118.3508
+Sydney,386504.1930
+Zeeland,373658.4657
+Cerritos,373292.2066
+Lane Cove,369080.0847
+Renton,366464.5150
+Redmond,363039.4714
+Beaverton,360447.3106
+Berkshire,360163.6360
+Chandler,358185.5884
+Offenbach,356573.3599
+Newcastle,351526.6554
+Fullerton,349342.1078
+Milwaukie,348671.5917
+Bracknell,343792.2246
+Liverpool,343206.4693
+Mississauga,343020.9919
+Sacramento,338939.2001
+Wollongong,338913.4665
+Bad Soden,337756.7319
+Howell,336401.6610
+Tacoma,336354.6510
+Milsons Point,332483.3403
+Warrnambool,327036.3682
+Saint John,325022.9130
+Everett,322879.7413
+Mⁿnchen,322591.7126
+West Sussex,321762.4936
+Ville De'anjou,318177.5925
+Escondido,316323.8118
+Frankfurt am Main,315006.9271
+Bendigo,314568.7193
+Lake Elsinore,311446.4310
+Goulburn,310875.8978
+Longmont,309077.4105
+Bellflower,302278.8057
+Tilton,299530.4863
+Brisbane,295353.5779
+Seaford,294824.5134
+Humble,294389.8076
+Daleville,292229.5405
+Stamford,288827.1098
+Issaquah,287264.2851
+Monrovia,286972.0866
+New Hartford,286645.1386
+Las Vegas,285525.6241
+Townsville,285486.9112
+Geelong,283802.1750
+Caloundra,281986.3402
+Corpus Christi,278412.8010
+Port Macquarie,278084.4993
+Perth,277520.6504
+Moline,276526.4031
+Salt Lake City,276441.1354
+Spokane,273309.0986
+South Melbourne,273202.8753
+Kirkland,272396.0851
+Dallas,270026.7073
+Brampton,269007.3018
+Parker,268166.0546
+Medford,267151.7376
+Sunbury,266949.5347
+Nashville,266902.9067
+Hawthorne,265777.9174
+City Of Commerce,263922.6670
+Melton,262606.4258
+Hervey Bay,259256.5090
+Warrington,258829.1388
+Kent,258423.3429
+Berkeley,258138.4605
+Cergy,256451.0461
+North Ryde,253614.1097
+Kelso,249499.3234
+Gold Coast,248767.9840
+Novi,248368.8168
+Salem,246454.6519
+Colombes,245898.7803
+Fernley,243014.5500
+Hobart,239937.9033
+Lake George,239853.1192
+Grevenbroich,239793.1459
+Gloucestershire,236845.4042
+Coffs Harbour,235454.9685
+Colma,233961.9866
+Chula Vista,233416.3297
+Burien,230359.4962
+Bremerton,227081.6480
+York,226861.9455
+Burlingame,225663.6362
+Cloverdale,225645.0628
+La Vergne,223285.3949
+Matraville,223036.4294
+Idaho Falls,213751.9969
+Merritt Island,212208.8367
+Rockhampton,211937.3994
+Cliffside,211608.9046
+Concord,210445.8622
+Morangis,204396.6355
+Hamburg,204316.9449
+Beverly Hills,202696.9645
+Frankfurt,199674.2541
+Gaffney,193708.5950
+Cincinnati,189028.4847
+Berks,188769.3772
+Findon,186692.4164
+Denby,185859.5957
+St. Leonards,185423.0829
+Bradenton,184876.3097
+Pantin,184710.9500
+Lemon Grove,184566.8141
+Cranbourne,184525.0555
+Silverwater,183628.9803
+Sherman Oaks,182025.0622
+Mⁿnster,181862.5621
+North Sydney,181520.5739
+Les Ulis,181244.7285
+Saint Ann,181062.7128
+Malabar,179766.4945
+East Brisbane,178919.8666
+Hillsboro,178066.6502
+Laredo,175502.1574
+Eilenburg,174472.4485
+Springfield,173228.2944
+El Cajon,170741.8988
+Woodland Hills,170277.9247
+Millington,168050.4139
+Saarbrⁿcken,167652.7937
+Oxford,166647.8465
+Puyallup,166541.5399
+Sarasota,165815.3344
+Springwood,165100.6608
+Fremont,164335.6609
+Kansas City,163942.0966
+Darlinghurst,162347.9754
+North Bend,162313.2916
+Pigeon Forge,158899.1489
+Valley Stream,158171.4804
+Bobigny,156330.7695
+Cheyenne,155244.2036
+Newport News,151331.0557
+Greensboro,149121.2220
+Langford,148632.3588
+Torrance,148429.8141
+Ogden,147887.6820
+Klamath Falls,147421.7514
+Coronado,146836.9552
+Long Beach,146801.6777
+New Castle,146256.5741
+West Chicago,146233.5598
+Round Rock,145073.6257
+Oak Bay,144920.3202
+Southgate,144109.8667
+Lynnwood,142040.2006
+Portland,141617.7816
+Paderborn,141612.5503
+San Ysidro,140874.5140
+San Diego,140785.9460
+Scottsdale,140088.7526
+Chehalis,138845.8336
+Walla Walla,138734.2819
+Carrollton,138488.0978
+Santa Cruz,137824.7753
+Savannah,137715.8538
+Royal Oak,137203.9710
+Spring Valley,134365.4635
+Lebanon,133558.9124
+Rio Rancho,131600.9354
+Lakewood,130397.2856
+Shawnee,128835.0563
+Lincoln Acres,126762.2102
+Mentor,126693.2424
+Newton,126086.6603
+Downey,125997.6645
+Oakland,125898.2530
+Markham,125793.7992
+Nepean,125357.0395
+Corvallis,124758.5410
+Port Hammond,124619.8417
+Sooke,124314.7910
+Lake Oswego,123850.0777
+Kiel,123684.6862
+Maryville,122360.6647
+Charlotte,120646.8233
+Decatur,120347.3237
+Port Orchard,120099.0254
+San Gabriel,119804.6297
+Marysville,118732.8813
+Watford,118505.2457
+Glendale,118357.3874
+Daly City,118001.6037
+Olympia,116289.4060
+Sedro Woolley,116147.1210
+West Covina,115931.1902
+Newport Beach,115767.2299
+Novato,115640.6855
+Haney,115526.8817
+National City,115171.8241
+N. Vancouver,114779.7255
+Newcastle upon Tyne,114667.2889
+San Carlos,114476.9442
+Mesa,114294.4289
+Palo Alto,113856.1060
+Chicago,113220.6134
+Los Angeles,112983.7065
+Sequim,112900.2480
+Van Nuys,112888.6666
+Saint Matthews,112651.9884
+Raleigh,112448.4311
+Grossmont,111776.8227
+Langley,109110.8141
+Ingolstadt,109037.4092
+Victoria,108603.0488
+Waterbury,107591.6690
+New Haven,106971.4345
+La Jolla,105378.4995
+Runcorn,104152.1164
+Metchosin,103566.1007
+Versailles,102657.2528
+Sainte-Foy,102230.4120
+Edmonds,101429.7963
+Arlington,101203.5836
+Redwood City,101144.7367
+Hollywood,101000.4248
+Solingen,100217.2366
+Leeds,99748.8802
+Esher-Molesey,99359.3399
+W. Linn,99233.1842
+Gateshead,98159.4496
+Saginaw,98108.8803
+Imperial Beach,97583.5078
+Tucson,96669.0330
+Kirkby,96390.7910
+San Ramon,94534.8418
+Yakima,94460.0696
+East Haven,94374.0022
+Metz,94046.2295
+Neunkirchen,93896.6749
+Stoke-on-Trent,92437.8360
+Mill Valley,92187.6707
+Roissy en Brie,92124.7532
+Hof,91915.1432
+Tremblay-en-France,91857.5692
+Oregon City,91490.4678
+San Francisco,90999.8842
+Fort Wayne,90764.2081
+Woodburn,90052.9778
+Clearwater,89884.5273
+Chatou,89830.1988
+Villeneuve-d'Ascq,89136.4521
+Orange,88310.8179
+North Randall,88245.8727
+Ferguson,87491.3550
+Leesburg,87270.1486
+Camarillo,87255.2929
+Denver,87201.3143
+Peterborough,86742.8889
+Ottawa,86721.6954
+Roubaix,86282.6274
+Upland,86197.0946
+Essen,85997.7114
+Holland,85764.1807
+Kassel,84798.3249
+Billericay,84337.0892
+Vero Beach,83359.9455
+Milwaukee,81372.2260
+Birmingham,81154.5003
+Stuttgart,80736.0398
+Bury,80337.1828
+Troutdale,78538.6919
+Erlangen,77585.5228
+Reading,77265.6212
+Saarlouis,76614.3900
+Biloxi,76546.4634
+Darmstadt,76433.2457
+Saint Germain en Laye,76177.3442
+Dunkerque,75474.3824
+Bottrop,72895.5528
+Duesseldorf,72437.1025
+Croix,70956.8566
+South Bend,70893.8461
+Suresnes,70804.4814
+Cheltenham,70312.3149
+Sulzbach Taunus,69806.2242
+Chalk Riber,69187.2694
+Simi Valley,68492.0982
+Cheektowaga,68431.0819
+Mansfield,67941.1934
+Werne,67125.5539
+Wokingham,66829.6316
+Leipzig,66577.2592
+Winnipeg,66193.2168
+Boulogne-sur-Mer,65976.5802
+Lille,65419.9325
+Saint-Denis,63782.5914
+Surrey,61809.1325
+Milpitas,60119.3150
+SΦvres,60015.4633
+Lieusaint,58827.5350
+Englewood,58775.0691
+Baldwin Park,58236.0665
+Hannover,58010.5775
+Oxon,57846.6258
+W. York,57806.6056
+Dresden,57590.0057
+Lancaster,57388.1423
+Salzgitter,57353.2421
+Paris La Defense,57003.8510
+Orly,56963.7887
+Drancy,56031.3778
+Santa Fe,54331.8353
+Rocky Mount,53376.3911
+Santa Ana,53007.3702
+Mⁿhlheim,52821.2213
+Weston,52301.5365
+Pontiac,51648.4809
+Maidenhead,51197.5410
+Tuscola,49617.7903
+Barrie,49438.8177
+Verrieres Le Buisson,46076.1447
+Muehlheim,44976.5567
+Woodinville,44945.4676
+Braunschweig,44744.9254
+Ballard,44067.0657
+Visalia,43699.0953
+Bonn,42705.2275
+New York,42676.9740
+Crossville,42650.3954
+Randolph,41565.9496
+Poing,41477.4883
+Cambridge,41287.4868
+North Miami Beach,40221.1014
+Tigard,39171.4131
+Roncq,38865.2241
+Endicott,37289.1751
+Braintree,34695.4208
+Clackamas,34142.6529
+Quebec,33065.7981
+Barstow,32361.8148
+Oberlin,31960.3362
+Citrus Heights,31385.9961
+Port Huron,30353.2139
+Alhambra,29527.9976
+Tampa,29518.9673
+Gilbert,28016.6980
+Oxnard,27750.6760
+Pleasanton,26844.2510
+High Wycombe,26659.8605
+Redford,26558.9220
+Canoga Park,26090.3781
+Basingstoke Hants,25877.7829
+Mcdonough,24734.0248
+Norwood,24342.4729
+Huntsville,23145.8624
+Somerset,21860.1360
+North Sioux City,21339.3147
+Waterloo,20056.2899
+Cedar City,20021.4247
+San Mateo,19413.9889
+Hull,19151.5700
+La Marque,18772.6824
+Springdale,17623.2972
+Midland,17582.3954
+Marietta,17162.9517
+Euclid,16320.4211
+Great Falls,15319.2215
+Byron,15012.2745
+Southfield,15005.0345
+Newport,14603.1194
+Boulogne-Billancourt,14289.2439
+Florence,14116.2523
+Baytown,14067.5612
+Warwick,13657.5288
+Myrtle Beach,12790.0805
+Bell Gardens,12141.2926
+Killeen,12071.3124
+Redlands,11934.6698
+Surprise,11739.8794
+Elk Grove,11346.8814
+Bountiful,11303.1450
+Johnson Creek,11142.6000
+Woodbury,10717.8638
+Edina,10598.5425
+Richmond Hill,10390.1291
+Albany,10355.1349
+Sunrise,10135.8348
+Peoria,10016.3426
+Bothell,9689.0003
+Billings,9622.1035
+Madison Heights,9457.8078
+Washougal,9127.8241
+Sugar Land,9078.4705
+Jefferson City,9055.2903
+Detroit,8886.4791
+Wrentham,8799.1298
+Augsburg,8596.5757
+Lakeland,8537.4448
+Destin,8288.7638
+Bluffton,8105.1461
+Federal Way,7643.9962
+Sandpoint,6962.3778
+Kingston,6870.6697
+Lewiston,6587.3763
+Stockton,6417.1108
+Joliet,6407.8920
+San Bruno,5925.7862
+Augusta,5751.6151
+Shelton,5575.2477
+Hanford,5362.5698
+Hooksett,5178.6125
+Sparks,5040.2241
+Trabuco Canyon,4918.5235
+Fontana,4636.4220
+Sandy,4481.4769
+Michigan City,4466.8308
+Virginia Beach,4378.7209
+Wenatchee,4204.0294
+Cedar Park,4102.8327
+Monroe,3952.2695
+Clarkston,3640.7195
+Mosinee,3560.9520
+Logansport,3554.9671
+Fort Worth,3531.5040
+Carol Stream,3392.6478
+Plano,2930.5488
+Suwanee,2845.7809
+Auburn,2803.9816
+San Jose,2645.8695
+Branson,2553.7707
+Norridge,2518.5038
+Missoula,2485.7036
+Campbellsville,2471.7353
+Sammamish,2428.6400
+Elgin,2414.8467
+Baltimore,2337.2700
+Kanata,2041.0745
+Hamden,1893.5040
+Heath,1805.4540
+Riverton,1778.4284
+Clay,1735.9800
+Whittier,1524.7500
+Kendall,1295.9880
+Kennewick,1291.7880
+Rock Springs,1146.2460
+Atlanta,1060.1100
+Westland,973.6662
+Tupelo,722.5949
+Outremont,714.5072
+Aurora,667.8300
+Duluth,639.9813
+Wood Dale,419.4589
+Irvine,419.4589
+Dorval,352.3860
+Kannapolis,323.9940
+Smithfield,165.2310
+Falls Church,149.8740
+North Las Vegas,149.0310
+Eureka,91.1760
+Newport Hills,64.9700
+Kenmore,61.9600
+Abingdon,59.3340
+Westport,57.6808
+Central Valley,50.9400
+La Grange,24.2940
+Woonsocket,1.3740

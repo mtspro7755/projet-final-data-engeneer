@@ -1,0 +1,729 @@
+2025.06.08 01:42:59 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala' for client Visual Studio Code 1.100.3.
+2025.06.08 01:43:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 1:43:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2025.06.08 01:43:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:05 INFO  Running List(C:\Users\SALA\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala)
+2025.06.08 01:43:04 INFO  Attempting to connect to the build server...
+2025.06.08 01:43:05 INFO  Running BSP server List(C:\Users\SALA\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.scala-build\ide-envs.json, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala)
+2025.06.08 01:43:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\bsp.trace.json or C:\Users\SALA\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.08 01:43:07 INFO  time: Connected to build server in 1.96s
+2025.06.08 01:43:07 INFO  Connected to Build server: scala-cli v1.7.1
+2025.06.08 01:43:07 INFO  Created report: Optional.empty
+2025.06.08 01:43:07 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 01:43:07 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 01:43:07 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 01:43:07 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 01:43:08 INFO  time: Imported build in 0.24s
+2025.06.08 01:43:07 INFO  compiling code scala_d1fa1d1725 (3 scala sources)
+2025.06.08 01:43:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:11 INFO  compiling code scala_d1fa1d1725 (3 scala sources)
+2025.06.08 01:43:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:12 INFO  time: indexed workspace in 5.67s
+2025.06.08 01:43:13 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:43:12 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala
+2025.06.08 01:43:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:13 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala
+2025.06.08 01:43:13 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:43:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:14 INFO  time: code lens generation in 1.1s
+2025.06.08 01:43:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:15 INFO  time: code lens generation in 1.43s
+2025.06.08 01:43:23 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:43:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:26 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala
+2025.06.08 01:43:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "pool-15-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2025.06.08 01:43:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:32 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:43:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:53 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala
+2025.06.08 01:43:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:43:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:01 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:08 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:10 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:12 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:14 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:16 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:17 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:21 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:22 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:22 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:22 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:25 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:26 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:27 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:27 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:27 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:28 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:28 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:30 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:29 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:31 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:34 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:34 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:36 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:37 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:41 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:41 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:41 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:41 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:44 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:46 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:46 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:46 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:46 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:47 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:52 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:55 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:55 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:58 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:44:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:44:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:00 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:02 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:05 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:05 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:08 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:09 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:14 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:16 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:17 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:20 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:19 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:24 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:25 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:25 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:26 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:45:26 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:45:27 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:43 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:44 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:45 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:49 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:49 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:49 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:50 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:50 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:49 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:49 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:50 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:50 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:49 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:51 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:52 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:53 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:55 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:55 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:55 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:57 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:57 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:58 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:53:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:53:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:00 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:01 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:02 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:04 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:07 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:09 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:13 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:14 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:17 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:17 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:17 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:21 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:21 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:21 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:22 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:22 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:33 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:37 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:46 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:54:45 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:51 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:54 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:55 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:56 INFO  Created report: Optional[file:///C:/Users/SALA/Desktop/projet%20final%20data%20Engeneer/etl/code%20scala/etl_transformation.scala]
+2025.06.08 01:54:56 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\metals-full\2025-06-08\r_empty-definition_01-54-56-055.md")
+2025.06.08 01:54:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:54:59 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:05 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:05 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:05 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:07 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:55:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:08 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:08 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:55:09 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:11 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:13 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:14 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:55:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:16 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:55:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:23 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 1:55:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 791
+2025.06.08 01:55:34 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:34 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:34 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:34 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:34 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:55:46 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:32 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:33 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:35 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:42 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:46 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:46 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:47 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 01:56:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:48 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:50 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:56:50 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:58:21 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:58:21 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 1:58:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 1:59:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.08 01:59:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:59:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 01:59:40 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 1:59:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:00:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:00:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:00:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:00:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:00:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:01:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:01:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:02:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:02:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:03:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 08, 2025 2:04:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.08 02:04:35 INFO  Shutting down server
+2025.06.08 02:04:35 INFO  shutting down Metals
+2025.06.08 02:04:35 INFO  Shut down connection with build server.
+2025.06.08 02:04:35 INFO  Exiting server
+2025.06.08 02:07:45 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala' for client Visual Studio Code 1.100.3.
+2025.06.08 02:07:47 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 2:07:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+juin 08, 2025 2:07:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.06.08 02:07:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:07:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:07:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 2:07:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2025.06.08 02:07:53 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:07:53 INFO  Attempting to connect to the build server...
+2025.06.08 02:07:53 INFO  Running BSP server List(C:\Users\SALA\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.scala-build\ide-envs.json, C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala)
+2025.06.08 02:07:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\bsp.trace.json or C:\Users\SALA\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.08 02:07:55 INFO  time: Connected to build server in 2.12s
+2025.06.08 02:07:55 INFO  Connected to Build server: scala-cli v1.7.1
+2025.06.08 02:07:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 02:07:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 02:07:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 02:07:56 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\.metals\.reports\bloop\2025-06-08\r_Empty build targets...._01-43-07-902.md")
+2025.06.08 02:07:56 INFO  time: Imported build in 0.31s
+2025.06.08 02:07:55 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 02:07:56 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:07:56 INFO  compiling code scala_d1fa1d1725 (3 scala sources)
+2025.06.08 02:07:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:07:58 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:01 INFO  compiling code scala_d1fa1d1725 (3 scala sources)
+2025.06.08 02:08:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:02 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juin 08, 2025 2:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+2025.06.08 02:08:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:03 INFO  time: indexed workspace in 7.6s
+2025.06.08 02:08:03 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala
+2025.06.08 02:08:03 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+juin 08, 2025 2:08:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+2025.06.08 02:08:03 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 02:08:03 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:04 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala
+2025.06.08 02:08:04 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala
+2025.06.08 02:08:04 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:05 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:05 INFO  time: code lens generation in 1.35s
+2025.06.08 02:08:06 INFO  time: code lens generation in 1.8s
+2025.06.08 02:08:06 INFO  time: code lens generation in 1.8s
+2025.06.08 02:08:06 INFO  time: code lens generation in 1.79s
+2025.06.08 02:08:06 INFO  time: code lens generation in 1.8s
+2025.06.08 02:08:06 INFO  time: code lens generation in 1.8s
+2025.06.08 02:08:06 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:07 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:14 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala
+2025.06.08 02:08:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:15 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:14 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:16 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:17 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:18 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala
+2025.06.08 02:08:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:18 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:08:20 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:09:05 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:10:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:10:12 WARN  no build target for: C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala
+2025.06.08 02:10:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:10:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:10:12 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:10:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 02:10:36 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 11:05:38 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_extraction.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 11:05:39 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_transformation.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 11:05:44 INFO  no build target found for C:\Users\SALA\Desktop\projet final data Engeneer\etl\code scala\etl_loading.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 11:08:30 INFO  Shutting down server
+2025.06.10 11:08:30 INFO  shutting down Metals
+2025.06.10 11:08:30 INFO  Shut down connection with build server.
+2025.06.10 11:08:30 INFO  Exiting server
