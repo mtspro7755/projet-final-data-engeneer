@@ -21,18 +21,27 @@ Le pipeline ETL extrait les données de SQL Server (AdventureWorks), les transfo
 ### 📁 Structure des répertoires
 
 ```
-mon_projet_etl/
-├── docker-compose.yml
-├── sql_server_init/
-│   └── setup.sql
-├── postgres_init/
-│   └── init_db.sql (optionnel)
+mon-projet-final-data-engeneer/
+├── captures/
+├── livrable/
+│   └── adventure_warehouse.sql
+│   └── AdventureWorksETL.scala
+│   └── BI_AdventureWorks.pbix
+│   └── Documentation  Instructions pour déployer l'ETL et utiliser les tableaux de bord..txt 
 ├── lib/
 │   ├── mssql-jdbc-12.8.1.jre11.jar
 │   └── postgresql-42.7.3.jar
-└── spark_app/
+├── etl/
+│   ├── lib/
+│   ├── mssql-jdbc-12.8.1.jre11.jar
+│   └── postgresql-42.7.3.jar
+│   └── postgresql-42.7.3.jar
+│   ├── src/
+│      └── main/
+│       └── scala
+│         └── AdventureWorksETL.scala
     └── target/scala-2.12/
-        └── adventureworks-etl_2.12-1.0.jar
+        └── adventureworksetl_2.12-1.0.jar
 ```
 
 ### 💡 Exemple `docker-compose.yml`
