@@ -61,9 +61,9 @@ services:
   postgresql:
     image: postgres:13
     environment:
-      POSTGRES_DB: adventureworks_dw
+      POSTGRES_DB: adventure_warehouse
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: "password123"
+      POSTGRES_PASSWORD: "pass"
     ports:
       - "5432:5432"
     networks:
@@ -128,8 +128,8 @@ docker-compose logs etl-job
 
 1. Ouvrir Power BI Desktop
 2. Accueil > Obtenir les données > PostgreSQL
-3. Serveur : `localhost` ou IP du conteneur, DB : `adventureworks_dw`
-4. S'authentifier : `postgres / password123`
+3. Serveur : `localhost` ou IP du conteneur, DB : `adventure_warehouse`
+4. S'authentifier : `postgres / pass`
 5. Sélectionner les tables : `DimCustomer`, `DimDate`, `DimGeography`, `DimProduct`, `FactCustomSales`
 6. Cliquez sur **Charger**
 
